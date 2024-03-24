@@ -1,0 +1,11 @@
+C:\Users\bastm\source\repos\orphans\orphan.Core\bin\Debug\net8.0\orphan.Core.deps.json
+C:\Users\bastm\source\repos\orphans\orphan.Core\bin\Debug\net8.0\orphan.Core.dll
+C:\Users\bastm\source\repos\orphans\orphan.Core\bin\Debug\net8.0\orphan.Core.pdb
+C:\Users\bastm\source\repos\orphans\orphan.Core\obj\Debug\net8.0\orphan.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bastm\source\repos\orphans\orphan.Core\obj\Debug\net8.0\orphan.Core.AssemblyInfoInputs.cache
+C:\Users\bastm\source\repos\orphans\orphan.Core\obj\Debug\net8.0\orphan.Core.AssemblyInfo.cs
+C:\Users\bastm\source\repos\orphans\orphan.Core\obj\Debug\net8.0\orphan.Core.csproj.CoreCompileInputs.cache
+C:\Users\bastm\source\repos\orphans\orphan.Core\obj\Debug\net8.0\orphan.Core.dll
+C:\Users\bastm\source\repos\orphans\orphan.Core\obj\Debug\net8.0\refint\orphan.Core.dll
+C:\Users\bastm\source\repos\orphans\orphan.Core\obj\Debug\net8.0\orphan.Core.pdb
+C:\Users\bastm\source\repos\orphans\orphan.Core\obj\Debug\net8.0\ref\orphan.Core.dll
